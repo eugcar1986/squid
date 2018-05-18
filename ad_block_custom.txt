@@ -1,0 +1,8 @@
+.taobao.com
+.alicdn.com
+.mmstat.com
+.tbcdn.cn
+.greencompute.org
+.chartbeat.net
+.googlesyndication.com
+.googleadservices.com
